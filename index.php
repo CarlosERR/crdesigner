@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="images/favicon.ico" type="image/x-icon">
-		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<!-- Global site tag (gtag.js) -- Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121181555-1"></script>
 		<script>
 		  window.dataLayer = window.dataLayer || [];
