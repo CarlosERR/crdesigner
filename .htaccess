@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^crdesigner.com.br/ [NC]
+RewriteRule ^(.*)$ http://www.crdesigner.com.br/$1 [L,R=301,NC]
