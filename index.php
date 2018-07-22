@@ -26,7 +26,7 @@
 					<li><a href="https://www.facebook.com/crdesigner.com.br/" target="_blank" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
 					<!--<li><a href="https://www.instagram.com/crdesigner.com.br/" target="_blank" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>-->
 					<li><a href="https://api.whatsapp.com/send?phone=5521983475238" target="_blank" class="icon style2 fa-whatsapp"><span class="label">WhatsApp</span></a></li>
-					<li><a href="mailto:contato@crdesigner.com.br" target="_blank" class="icon style2 fa-envelope-o"><span class="label">E-mail</span></a></li>
+					<li><a href="mailto:kdu001987@gmail.com" target="_blank" class="icon style2 fa-envelope-o"><span class="label">E-mail</span></a></li>
 				</ul>
 			</header>
 			<footer id="footer">
