@@ -10,6 +10,10 @@
 
     <title>Stylish Portfolio - Start Bootstrap Template</title>
 
+    <!-- Favicon -->
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -30,9 +34,9 @@
     </a>
     <nav id="sidebar-wrapper">
       <ul class="sidebar-nav">
-        <li class="sidebar-brand">
-          <a class="js-scroll-trigger" href="#page-top">Start Bootstrap</a>
-        </li>
+        <!--<li class="sidebar-brand">
+          <a class="js-scroll-trigger" href="#page-top"><img src="img/logo.png" alt="CRDesigner" /></a>
+        </li>-->
         <li class="sidebar-nav-item">
           <a class="js-scroll-trigger" href="#page-top">Home</a>
         </li>
@@ -216,22 +220,22 @@
       <div class="container">
         <ul class="list-inline mb-5">
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" href="#">
+            <a class="social-link rounded-circle text-white mr-3" href="https://www.facebook.com/crdesigner.com.br/" target="_blank">
               <i class="icon-social-facebook"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white mr-3" href="#">
-              <i class="icon-social-twitter"></i>
+            <a class="social-link rounded-circle text-white mr-3" href="https://api.whatsapp.com/send?phone=5521983475238" target="_blank">
+              <i class="fa fa-whatsapp"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white" href="#">
-              <i class="icon-social-github"></i>
+            <a class="social-link rounded-circle text-white" href="mailto:kdu001987@gmail.com" target="_blank">
+              <i class="icon-envelope"></i>
             </a>
           </li>
         </ul>
-        <p class="text-muted small mb-0">Copyright &copy; Your Website 2017</p>
+        <p class="text-muted small mb-0">Copyright &copy; CRDesigner 2017</p>
       </div>
     </footer>
 
