@@ -37,6 +37,7 @@ h6 {
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
+  text-align: justify;
 }
 
 /* Map */
@@ -68,7 +69,7 @@ h6 {
 }
 
 .scroll-to-top:focus, .scroll-to-top:hover {
-  color: white;
+  color: #ffffff;
 }
 
 .scroll-to-top:hover {
@@ -91,6 +92,7 @@ h6 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  color: #ffffff;
 }
 
 .masthead h1 {
@@ -121,7 +123,7 @@ h6 {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #0058ae;
+  background: #ffffff;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -132,18 +134,20 @@ h6 {
   margin: 0;
   padding: 0;
   list-style: none;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 .sidebar-nav li.sidebar-nav-item a {
   display: block;
   text-decoration: none;
-  color: #fff;
+  color: #434645;
   padding: 15px;
 }
 
 .sidebar-nav li a:hover {
   text-decoration: none;
-  color: #fff;
+  color: #0058ae;
   background: rgba(255, 255, 255, 0.2);
 }
 
@@ -173,7 +177,7 @@ h6 {
 
 #sidebar-wrapper.active {
   right: 250px;
-  width: 250px;
+  width: 200px;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -ms-transition: all 0.4s ease 0s;
@@ -199,7 +203,7 @@ h6 {
 }
 
 .menu-toggle:hover {
-  background: #343a40;
+  background: #434645;
 }
 
 .service-icon {
@@ -316,22 +320,22 @@ footer.footer .social-link:hover {
 }
 
 a {
-  color: #1D809F;
+  color: #0058ae;
 }
 
 a:hover, a:focus, a:active {
-  color: #155d74;
+  color: #0067cc;
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #0058ae !important;
+  border-color: #0058ae !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #0067cc !important;
+  border-color: #0067cc !important;
 }
 
 .btn-secondary {

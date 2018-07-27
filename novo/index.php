@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Stylish Portfolio - Start Bootstrap Template</title>
+    <title>Carlos Ramos Designer</title>
 
     <!-- Favicon -->
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -34,23 +34,23 @@
     </a>
     <nav id="sidebar-wrapper">
       <ul class="sidebar-nav">
-        <!--<li class="sidebar-brand">
-          <a class="js-scroll-trigger" href="#page-top"><img src="img/logo.png" alt="CRDesigner" /></a>
-        </li>-->
+        <li class="sidebar-brand">
+          <a class="js-scroll-trigger" href="#page-top"><img src="img/logo.png" alt="CRDesigner" style="width: 3em;" /></a>
+        </li>
         <li class="sidebar-nav-item">
           <a class="js-scroll-trigger" href="#page-top">Home</a>
         </li>
         <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#about">About</a>
+          <a class="js-scroll-trigger" href="#about">Sobre</a>
         </li>
         <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#services">Services</a>
+          <a class="js-scroll-trigger" href="#services">Serviços</a>
         </li>
         <li class="sidebar-nav-item">
           <a class="js-scroll-trigger" href="#portfolio">Portfolio</a>
         </li>
         <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#contact">Contact</a>
+          <a class="js-scroll-trigger" href="#contact">Contato</a>
         </li>
       </ul>
     </nav>
@@ -58,11 +58,11 @@
     <!-- Header -->
     <header class="masthead d-flex">
       <div class="container text-center my-auto">
-        <h1 class="mb-1">Stylish Portfolio</h1>
+        <h1 class="mb-1">Carlos Ramos Designer</h1>
         <h3 class="mb-5">
-          <em>A Free Bootstrap Theme by Start Bootstrap</em>
+          <em>Um novo conceito em design</em>
         </h3>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Descubra mais</a>
       </div>
       <div class="overlay"></div>
     </header>
@@ -72,10 +72,10 @@
       <div class="container text-center">
         <div class="row">
           <div class="col-lg-10 mx-auto">
-            <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
-            <p class="lead mb-5">This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at
+            <h2>Portfolio elegante é o tema perfeito para o seu próximo projeto!</h2>
+            <p class="lead mb-5">Este tema apresenta um menu de barra lateral flexível e amigável UX e fotos de nossos amigos em
               <a href="https://unsplash.com/">Unsplash</a>!</p>
-            <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">What We Offer</a>
+            <a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">O que nós oferecemos</a>
           </div>
         </div>
       </div>
@@ -85,8 +85,8 @@
     <section class="content-section bg-primary text-white text-center" id="services">
       <div class="container">
         <div class="content-section-heading">
-          <h3 class="text-secondary mb-0">Services</h3>
-          <h2 class="mb-5">What We Offer</h2>
+          <h3 class="text-secondary mb-0">Serviços</h3>
+          <h2 class="mb-5">O que eu ofereço</h2>
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
@@ -94,38 +94,40 @@
               <i class="icon-screen-smartphone"></i>
             </span>
             <h4>
-              <strong>Responsive</strong>
+              <strong>Design Gráfico</strong>
             </h4>
-            <p class="text-faded mb-0">Looks great on any screen size!</p>
+            <p class="text-faded mb-0">Além da importante função de comunicar, o design tem o poder de encantar, atrair e "encher os olhos", transmitindo emoções e criando vínculos com o seu cliente.
+              <br /> O design é uma importante ferramenta de diferenciação das empresas no mercado.</p>
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
             <span class="service-icon rounded-circle mx-auto mb-3">
               <i class="icon-pencil"></i>
             </span>
             <h4>
-              <strong>Redesigned</strong>
+              <strong>Identidade Visual</strong>
             </h4>
-            <p class="text-faded mb-0">Freshly redesigned for Bootstrap 4.</p>
+            <p class="text-faded mb-0">A identidade visual é o sistema de elementos visuais que singularizam e identificam sua empresa.
+              <br /> Uma marca forte obtém benefícios que fazem com que a empresa tenha uma imagem corporativa consolidada.
+              <br /> A aplicação da marca nos materiais gráficos tem a função de divulgação, fortalecendo o negócio.</p>
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
             <span class="service-icon rounded-circle mx-auto mb-3">
               <i class="icon-like"></i>
             </span>
             <h4>
-              <strong>Favorited</strong>
+              <strong>Web Design</strong>
             </h4>
-            <p class="text-faded mb-0">Millions of users
-              <i class="fa fa-heart"></i>
-              Start Bootstrap!</p>
+            <p class="text-faded mb-0">Os websites estabelecem a comunicação entre o cliente e a empresa.
+              <br /> Um site bem planejado gera valores à identidade da marca, auxiliando na experiência positiva do cliente e, com isso, fortalecendo a imagem do negócio.</p>
           </div>
           <div class="col-lg-3 col-md-6">
             <span class="service-icon rounded-circle mx-auto mb-3">
               <i class="icon-mustache"></i>
             </span>
             <h4>
-              <strong>Question</strong>
+              <strong>Design Editorial</strong>
             </h4>
-            <p class="text-faded mb-0">I mustache you a question...</p>
+            <p class="text-faded mb-0">O projeto gráfico, diagramação e editoração bem planejados tem o objetivo de atingir e atrair o seu público leitor através do design, com um layout harmônico e hierarquia de informações projetadas para um livro, catálogo, revista, jornal, ou qualquer outra publicação.</p>
           </div>
         </div>
       </div>
@@ -141,12 +143,12 @@
       </div>
     </section>
 
-    <!-- Portfolio -->
+    <!-- Portfólio -->
     <section class="content-section" id="portfolio">
       <div class="container">
         <div class="content-section-heading text-center">
-          <h3 class="text-secondary mb-0">Portfolio</h3>
-          <h2 class="mb-5">Recent Projects</h2>
+          <h3 class="text-secondary mb-0">Portfólio</h3>
+          <h2 class="mb-5">Projetos Recentes</h2>
         </div>
         <div class="row no-gutters">
           <div class="col-lg-6">
@@ -206,14 +208,8 @@
       </div>
     </section>
 
-    <!-- Map 
-    <section id="contact" class="map">
-      <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
-      <br/>
-      <small>
-        <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
-      </small>
-    </section>-->
+    <!-- Map -->
+    <section id="contact"></section>
 
     <!-- Footer -->
     <footer class="footer text-center">
