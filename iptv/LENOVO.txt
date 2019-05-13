@@ -1,0 +1,230 @@
+###############################################################
+######################## Documentários ########################
+###############################################################
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", Animal Planet HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/116.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", Discovery Channel HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/43.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", History HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/66.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", Discovery Civilization HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/28.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", H2 HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18643.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", ID: Investigação Discovery HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18629.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", Discovery Science HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/107.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", Discovery World HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18687.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", E! HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/48.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", GNT HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/112.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", NatGeo Wild HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18606.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", National Geographic Channel HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/65.ts
+
+################################################################
+########################### Esportes ###########################
+################################################################
+
+#EXTINF:-1 tvg-logo="http://www.crdesigner.com.br/iptv/logos/bandsports-hd.png" group-title="Esportes", Band Sports HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/101.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Combate HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/36.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN HD
+http://80.80.160.168/live/6/2500000/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN 2 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/115.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN Brasil
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/114.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN Extra HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/2.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", FOX Sports HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/92.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", FOX Sports 2 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/135.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", FOX Sports 3 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/467.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", FOX Sports Premium HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/13120.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", FOX Sports Racing HD
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere 1 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/39.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere 2 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/30.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere 3 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/27.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere 4 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/29.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere 5 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/33.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere 6 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/31.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere 7 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/35.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere 8 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/38.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere Clubes HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/34.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", SporTV HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/130.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", SporTV 2 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/133.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", SporTV 3 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/104.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", WooHoo HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/75.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", WWE
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/6598.ts
+
+#################################################################
+######################## Filmes e Séries ########################
+#################################################################
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", AXN HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18730.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Cine Max HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/119.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Cine SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", FX HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/51.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18637.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO 2 HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/136.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Family HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/134.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Plus HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/138.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Signature HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/141.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Fox HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/57.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Fox Chanel
+http://painel.ebanonet.com.br:25461/4020/4020/6122
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Fox Premium HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/79.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Fox Premium 2 HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18661.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Megapix HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/124.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Paramount HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18596.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", PPV 1
+http://painel.ebanonet.com.br:25461/4020/4020/20586
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", PPV 2
+http://painel.ebanonet.com.br:25461/4020/4020/20585
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Sony HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/52.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Space HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/64.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Space HD 2
+http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/64
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Studio Universal HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/98.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", SYFY HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/122.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Telecine Action
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18551.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Telecine Pipoca
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18545.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Telecine Premium
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18543.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Telecine Cult
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18549.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Telecine Fun
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18547.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Telecine Touch
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18541.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", TNT HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18536.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", TNT Séries
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/102.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Universal Channel
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18520.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Warner Channel
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18513.ts
+
+##########################################################
+######################## Infantil ########################
+##########################################################
+
+#EXTINF:-1 tvg-logo="" group-title="Infantil", Cartoon Network HD
+http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/22
+
+##########################################################
+######################## Notícias ########################
+##########################################################
+
