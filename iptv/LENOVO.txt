@@ -8,17 +8,8 @@ http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/116.ts
 #EXTINF:-1 tvg-logo="" group-title="Documentários", Discovery Channel HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/43.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Documentários", History HD
-http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/66.ts
-
 #EXTINF:-1 tvg-logo="" group-title="Documentários", Discovery Civilization HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/28.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Documentários", H2 HD
-http://psrv.io:80/live/CaS01XxWvu4/6879304603/18643.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Documentários", ID: Investigação Discovery HD
-http://psrv.io:80/live/CaS01XxWvu4/6879304603/18629.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Documentários", Discovery Science HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/107.ts
@@ -32,6 +23,18 @@ http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/48.ts
 #EXTINF:-1 tvg-logo="" group-title="Documentários", GNT HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/112.ts
 
+#EXTINF:-1 tvg-logo="" group-title="Documentários", History HD
+http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/66.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", H2 HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18643.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", ID: Investigação Discovery HD
+http://psrv.io:80/live/CaS01XxWvu4/6879304603/18629.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários", Nat Geo
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Documentários", NatGeo Wild HD
 http://psrv.io:80/live/CaS01XxWvu4/6879304603/18606.ts
 
@@ -42,8 +45,14 @@ http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/65.ts
 ########################### Esportes ###########################
 ################################################################
 
+#EXTINF:-1 tvg-logo="" group-title="Esportes", All Sports Br
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.crdesigner.com.br/iptv/logos/bandsports-hd.png" group-title="Esportes", Band Sports HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/101.ts
+
+#EXTINF:-1 tvg-logo="http://www.crdesigner.com.br/iptv/logos/bandsports-hd.png" group-title="Esportes", Band Sports HD 2
+http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/101
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes", Combate HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/36.ts
@@ -99,11 +108,17 @@ http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/35.ts
 #EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere 8 HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/38.ts
 
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere Clubes 
+http://painel.ebanonet.com.br:25461/4020/4020/8191
+
 #EXTINF:-1 tvg-logo="" group-title="Esportes", Premiere Clubes HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/34.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes", SporTV HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/130.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", SporTV HD 2
+http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/130
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes", SporTV 2 HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/133.ts

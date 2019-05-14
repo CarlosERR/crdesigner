@@ -1,0 +1,54 @@
+#########################################################
+######################## Adultos ########################
+#########################################################
+ 
+#EXTINF:-1 tvg-logo="" group-title="Adultos", +18
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Ask Tv
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Brasileirinhas
+rtmp://81.89.48.215:1935/xyz666wkz/ playpath=xy6_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/brasileirinhas_tv_online/
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", But Go!
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", But Go! 2
+http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Candy Tv
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Fundorado Tv
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Jasmin Tv
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Live Ting Tv
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Penthouse Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Playboy Tv
+rtmp://edge2.everyon.tv/etv2sb//pld10499?MWINFO
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Private Tv
+rtmp://5.196.189.39/live/ playpath=n2409 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/hallo-tv_online/
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Redlight HD  
+rtmp://5.196.189.39/live/ playpath=c_916 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/redlight_online/
+ 
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sakura Porn Tv
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sexy Sat Tv
+http://publish.thewebstream.co:1935/leved/studio66tv_channel41/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sexy Sat Tv 2
+rtmp://81.89.48.215:1935/xyz444wkz/ playpath=xy4_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/sexysat-tv_online/
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sex Zone
+http://tv.redecanais.com:1935/redecanaishot/myStream/chunklist.m3u8
