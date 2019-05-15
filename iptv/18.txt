@@ -18,10 +18,16 @@ http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
 http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Adultos", Candy Tv
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+http://media.platinumstream.ru/candy/tracks-v2a1/index-1486694848-now.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", CCTV Hot - Chinese
+http://219.146.248.44/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?type=web.cloudplay
 
 #EXTINF:-1 tvg-logo="" group-title="Adultos", Fundorado Tv
-http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Fundorado Tv 2
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8?CANAISGLAU
 
 #EXTINF:-1 tvg-logo="" group-title="Adultos", Jasmin Tv
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
@@ -29,11 +35,17 @@ http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Adultos", Live Ting Tv
 http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Passie XXX Tv
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Adultos", Penthouse Asia
 http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Adultos", Playboy Tv
 rtmp://edge2.everyon.tv/etv2sb//pld10499?MWINFO
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Playboy Tv 2
+http://edge2.everyon.tv:1935/etv2sb/phd499/playlist.m3u8?CANAISGLAU
 
 #EXTINF:-1 tvg-logo="" group-title="Adultos", Private Tv
 rtmp://5.196.189.39/live/ playpath=n2409 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/hallo-tv_online/
@@ -52,3 +64,43 @@ rtmp://81.89.48.215:1935/xyz444wkz/ playpath=xy4_360p swfUrl=http://ero-tv.org/u
 
 #EXTINF:-1 tvg-logo="" group-title="Adultos", Sex Zone
 http://tv.redecanais.com:1935/redecanaishot/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sex Zone 2
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Visit-X Tv
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PASSIEXXX" tvg-logo="https://goo.gl/bGSq4W" group-title="CANAL PORNO", PASSIEXXX 
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/219.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://goo.gl/HUDgP1" group-title="CANAL PORNO", SEXTREME 
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/224.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-id="" tvg-name="SEXYHOT" tvg-logo="https://goo.gl/1dJRBv" group-title="CANAL PORNO", SEXYHOT 
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/225.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-id="" tvg-name="SEXYHOT" tvg-logo="https://goo.gl/1dJRBv"group-title="CANAL PORNO", SEXZONE 
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/223.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot" tvg-logo="https://goo.gl/VmuoRq" group-title="CANAL PORNO",SEXZONE 1
+http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="https://goo.gl/7dDpvm" group-title="CANAL PORNO", PLAYBOY 
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/221.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-id="" tvg-name="HOT" tvg-logo="https://goo.gl/KkUQUy" group-title="CANAL PORNO", HOT 
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/218.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://goo.gl/os57gK" group-title="CANAL PORNO", VENUS 
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/226.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="https://goo.gl/UG9wLr" group-title="CANAL PORNO", MIAMI TV 01
+http://23.111.128.190/miamitv/smil:miamitvmexico/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-logo="https://goo.gl/UG9wLr" group-title="CANAL PORNO", MIAMI TV 02
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1922323004_b742000.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/UG9wLr" group-title="CANAL PORNO", MIAMI TV 03
+http://usaserver.miamitvchannel.com:1935/miamitv/smil:miamitv/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-logo="https://goo.gl/UG9wLr" group-title="CANAL PORNO", MIAMI TV 04
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-logo="https://goo.gl/rw9fb2" group-title="CANAL PORNO", Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?CANAISGLAU
+#EXTINF:-1 tvg-logo="https://goo.gl/quBVkt" group-title="CANAL PORNO",Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?CANAISGLAU
