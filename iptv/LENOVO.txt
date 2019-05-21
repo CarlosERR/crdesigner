@@ -54,7 +54,7 @@ http://painel.ebanonet.com.br:25461/4020/4020/6138
 #EXTINF:-1 tvg-logo="http://www.crdesigner.com.br/iptv/logos/bandsports-hd.png" group-title="Esportes", Band Sports HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/101.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Esportes", Band Sports HD 2
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Band Sports HD
 http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/101
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes", , Band Sports SD
@@ -63,19 +63,19 @@ http://painel.ebanonet.com.br:25461/4020/4020/4398
 #EXTINF:-1 tvg-logo="" group-title="Esportes", Combate
 http://painel.ebanonet.com.br:25461/4020/4020/20831
 
+#EXTINF:-1 tvg-logo="" group-title="Esportes", Combate
+http://painel.ebanonet.com.br:25461/4020/4020/4392
+
 #EXTINF:-1 tvg-logo="" group-title="Esportes", Combate HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/36.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes", Combate SD
 http://painel.ebanonet.com.br:25461/4020/4020/4392
 
-#EXTINF:-1 tvg-logo="" group-title="Esportes", Combate 2
-http://painel.ebanonet.com.br:25461/4020/4020/4392
-
 #EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN HD
 http://80.80.160.168/live/6/2500000/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN HD 2
+#EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN HD
 http://painel.ebanonet.com.br:25461/4020/4020/20779
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN 2 
@@ -87,14 +87,14 @@ http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/115.ts
 #EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN Brasil
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/114.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN Brasil 2
+#EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN Brasil
 http://painel.ebanonet.com.br:25461/4020/4020/6124
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN Brasil
+http://painel.ebanonet.com.br:25461/4020/4020/11057
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN Brasil SD
 http://painel.ebanonet.com.br:25461/4020/4020/4380
-
-#EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN Brasil 2
-http://painel.ebanonet.com.br:25461/4020/4020/11057
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes", ESPN Extra
 http://painel.ebanonet.com.br:25461/4020/4020/24788
@@ -105,11 +105,11 @@ http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/2.ts
 #EXTINF:-1 tvg-logo="" group-title="Esportes", FOX Sports
 http://painel.ebanonet.com.br:25461/4020/4020/6117
 
-#EXTINF:-1 tvg-logo="" group-title="Esportes", FOX Sports 2
-http://painel.ebanonet.com.br:25461/4020/4020/4372
-
 #EXTINF:-1 tvg-logo="" group-title="Esportes", FOX Sports HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/92.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", FOX Sports 2
+http://painel.ebanonet.com.br:25461/4020/4020/4372
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes", FOX Sports 2 HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/135.ts
@@ -156,7 +156,7 @@ http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/34.ts
 #EXTINF:-1 tvg-logo="" group-title="Esportes", SporTV HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/130.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Esportes", SporTV HD 2
+#EXTINF:-1 tvg-logo="" group-title="Esportes", SporTV HD
 http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/130
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes", SporTV 2 HD
@@ -190,7 +190,7 @@ http://fonte.iptvmaishd.com:25461/live/5799/5799/141988.ts
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", AXN
 http://185.180.223.200:25461/live/5799/5799/141984.ts?token=HkdRUEJQRgsQVQNSAFRTBFcEAwRVVVZeAVZUBQYGUAVRXA0IUwBQBlNEGBNFFkRRUA9vXAAVX1cBVwsMV0hBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwJTUVYEVl0VE0FRABMIRAUHBVIAFh1AVU0QUhcIVAptUAYSClAARwNfRFQIHRAJWm5SB1tVXwYSD0YGR0oXD0FEQV5BYAwJT1ARHkRiWwpCVF8QVxRiPh92RHsRAlRGHxQuIUEfRwdQRUNZEFQQXBYDB1EOFh1AU1oRWREUTEQIFiE2QR9HAEFFVFYXWF0IFgsUFkUWHUBZRjtFABVBFFdVDgEREV9HCRMdGglQSjlXXlgMU1dFC19bFxVfRAREHhYOCw1aEQpLbkFRABMIRAABDlsUSQ==
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", AXN 2
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", AXN
 http://fonte.iptvmaishd.com:25461/live/5799/5799/141984.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", AXN HD
@@ -202,7 +202,7 @@ http://190.2.144.200:25461/live/5799/5799/141982.ts?token=HkdRUEJQRgsQBwEIVQZVVV
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Cine +
 https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Cine + 2
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Cine +
 https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3_240/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Cine Max HD
@@ -211,7 +211,7 @@ http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/119.ts
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Cine SKY
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Cine SKY 2
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Cine SKY
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Cine SKY Terror
@@ -238,7 +238,7 @@ http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/79.ts
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Fox Premium 2
 http://190.2.150.47:25461/live/5799/5799/141901.ts?token=HkdRUEJQRgsQVlBVAVUODQNUUw0FAwRSV1NXAVVXUVFSXAlQCAEBB1ZEGBNFFkRRUA9vXAAVX1cBVwsEUkhBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwFVU1UFXFcVE0FRABMIRAYCBVUCFh1AVU0QUhcIVAptUAYSClAARwNfRFQIHRAJWm5SB1tVXwYSD0YGR0oXD0FEQV5BYAwJT1ARHkRiWwpCVF8QVxRiPh92RHsRAlRGHxQuIUEfRwdQRUNZEFQQXBYDAlUHFh1AU1oRWREUTEQIFiE2QR9HAEFFVFYXWF0IFgsUFkUWHUBZRjtFABVBFFdVDgEREV9HCRMdGglQSjlXXlgMU1dFC19bFxVfRAREHhYOCw1aEQpLbkFRABMIRAcBAlsHFkw=
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Fox Premium 2 2
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Fox Premium 2
 http://fonte.iptvmaishd.com:25461/live/5799/5799/141901.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Fox Premium 2 HD
@@ -262,34 +262,76 @@ http://psrv.io:80/live/CaS01XxWvu4/6879304603/18637.ts
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO 2
 http://archive.org/download/54848441_201808/54848441.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO 2
+http://185.180.223.200:25461/live/5799/5799/141854.ts?token=HkdRUEJQRgsQVQUFAABTBFAEAFdRVldSUFAKAAdWUQADAFgGCApQBgpEGBNFFkRRUA9vXAAVX1cBVwoBV0hBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwFVU1UKUFYVE0FRABMIRAcAAlIOFh1AVU0QUhcIVAptUAYSClAARwNfRFQIHRAJWm5SB1tVXwYSD0YGR0oXD0FEQV5BYAwJT1ARHkRiWwpCVF8QVxRiPh92RHsRAlRGHxQuIUEfRwdQRUNZEFQQXBYABlUFFh1AU1oRWREUTEQIFiE2QR9HAEFFVFYXWF0IFgsUFkUWHUBZRjtFABVBFFdVDgEREV9HCRMdGglQSjlXXlgMU1dFC19bFxVfRAREHhYOCw1aEQpLbkFRABMIRAcABVUFFkw=
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO 2 HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/136.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO 2 SD
+http://185.180.223.200:25461/live/5799/5799/141855.ts?token=HkdRUEJQRgsQA1EBA1EPUgRWVAdQAVVeBVIABQZRBQtQVwEABQ4GBwVEGBNFFkRRUA9vXAAVX1cBVwoBVkhBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwFVU1QDVVQVE0FRABMIRAcDBFsDFh1AVU0QUhcIVAptUAYSClAARwNfRFQIHRAJWm5SB1tVXwYSD0YGR0oXD0FEQV5BYAwJT1ARHkRiWwpCVF8QVxRiPh92RHsRAlRGHxQuIUEfRwdQRUNZEFQQXBYABlUFFh1AU1oRWREUTEQIFiE2QR9HAEFFVFYXWF0IFgsUFkUWHUBZRjtFABVBFFdVDgEREV9HCRMdGglQSjlXXlgMU1dFC19bFxVfRAREHhYOCw1aEQpLbkFRABMIRAcDBFEFFkw=
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Família
+http://190.2.150.47:25461/live/5799/5799/141852.ts?token=HkdRUEJQRgsQUAIEBQYEBwhQBwZSVFRQU1RWVQVVU1YAUVgAUgFcCFBEGBNFFkRRUA9vXAAVX1cBVwoBUUhBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwFVU1QDUVAVE0FRABMIRAYDAFQEFh1AVU0QUhcIVAptUAYSClAARwNfRFQIHRAJWm5SB1tVXwYSD0YGR0oXD0FEQV5BYAwJT1ARHkRiWwpCVF8QVxRiPh92RHsRAlRGHxQuIUEfRwdQRUNZEFQQXBYADlcEFh1AU1oRWREUTEQIFiE2QR9HAEFFVFYXWF0IFgsUFkUWHUBZRjtFABVBFFdVDgEREV9HCRMdGglQSjlXXlgMU1dFC19bFxVfRAREHhYOCw1aEQpLbkFRABMIRAcBBVABFkw=
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Família
+http://185.180.223.200:25461/live/5799/5799/141853.ts?token=HkdRUEJQRgsQU1cDV1RTDFJQUlNVDl1fBFRTUgJTAQtdUghUVwwHUwpEGBNFFkRRUA9vXAAVX1cBVwoBUEhBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwFVU1QCVVQVE0FRABMIRAcIBEAaFlQaRFAWWQQKagJXQgoHBhFfC0xdXRRGXlw5UFRbA1hQE1gSBEYbRw9GFhAOQTcKXxMEGRcRaw1dRANdQ1dCZWgeIRB5EFMERhhGf3FBSEFRDBFLUEVdRgsQVwwGAkAaFlINRVsQRRxED0RwZkFIQVYdEVxfQlELXxBcFkVFQBoWWBFvRwFEERRQB19REUZZEVVHFRNcWRxuUQlaX1MBQl1eDEMXXhVURBlEX1sNDRdcFzpJWFUaXhMBVwcDBEBL
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Family HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/134.ts
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Plus
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141848.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Plus
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141849.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Plus HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/138.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Signature
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141846.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Signature
+http://190.2.144.200:25461/live/5799/5799/141847.ts?token=HkdRUEJQRgsQVw0GVwEOAwkGVVNSVVIFDVFUBwVSWlBVB18FUl1RAldEGBNFFkRRUA9vXAAVX1cBVwoAVEhBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwFVU1QAVlQVE0FRABMIRAUCB1cHFh1AVU0QUhcIVAptUAYSClAARwNfRFQIHRAJWm5SB1tVXwYSD0YGR0oXD0FEQV5BYAwJT1ARHkRiWwpCVF8QVxRiPh92RHsRAlRGHxQuIUEfRwdQRUNZEFQQXBYADlsBFh1AU1oRWREUTEQIFiE2QR9HAEFFVFYXWF0IFgsUFkUWHUBZRjtFABVBFFdVDgEREV9HCRMdGglQSjlXXlgMU1dFC19bFxVfRAREHhYOCw1aEQpLbkFRABMIRAUIAVYFFkw=
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", HBO Signature HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/141.ts
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Max
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141838.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Max Prime
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141836.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Max Up
+http://185.180.223.200:25461/live/5799/5799/141831.ts?token=HkdRUEJQRgsQAAEGVwEAAAYBBlBUUlFRBwAGAgVSU1JVUF8CAAhTVQVEGBNFFkRRUA9vXAAVX1cBVwoHUkhBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwFVU1QHU1cVE0FRABMIRAUIBlYPFh1AVU0QUhcIVAptUAYSClAARwNfRFQIHRAJWm5SB1tVXwYSD0YGR0oXD0FEQV5BYAwJT1ARHkRiWwpCVF8QVxRiPh92RHsRAlRGHxQuIUEfRwdQRUNZEFQQXBYDBVYOFh1AU1oRWREUTEQIFiE2QR9HAEFFVFYXWF0IFgsUFkUWHUBZRjtFABVBFFdVDgEREV9HCRMdGglQSjlXXlgMU1dFC19bFxVfRAREHhYOCw1aEQpLbkFRABMIRAYEAlsPFkw=
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Max Up
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141831.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Mega Pix
+http://185.180.223.200:25461/live/5799/5799/141834.ts?token=HkdRUEJQRgsQBQQDAgFXUVJTBVEHUQMCAQVWB1cCUQYAVAoDAQhRVwREGBNFFkRRUA9vXAAVX1cBVwoHV0hBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwFVU1QGUVwVE0FRABMIRAUDA1IHFh1AVU0QUhcIVAptUAYSClAARwNfRFQIHRAJWm5SB1tVXwYSD0YGR0oXD0FEQV5BYAwJT1ARHkRiWwpCVF8QVxRiPh92RHsRAlRGHxQuIUEfRwdQRUNZEFQQXBYAD1MCFh1AU1oRWREUTEQIFiE2QR9HAEFFVFYXWF0IFgsUFkUWHUBZRjtFABVBFFdVDgEREV9HCRMdGglQSjlXXlgMU1dFC19bFxVfRAREHhYOCw1aEQpLbkFRABMIRAUABlYFFkw=
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Megapix HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/124.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Paramount
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141795.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Paramount SD
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141796.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Paramount HD
 http://psrv.io:80/live/CaS01XxWvu4/6879304603/18596.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", PPV 1
-http://painel.ebanonet.com.br:25461/4020/4020/20586
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", PPV 2
-http://painel.ebanonet.com.br:25461/4020/4020/20585
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Prime Box
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141717.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Sony
 http://185.180.223.200:25461/live/5799/5799/141984.ts?token=HkdRUEJQRgsQAw0DAgdXDAhVCQNRBF1XUQdWVQEAAlUBUQoAU15SCVBEGBNFFkRRUA9vXAAVX1cBVwsMV0hBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwJTUVYKUlEVE0FRABMIRAUHBVIAFh1AVU0QUhcIVAptUAYSClAARwNfRFQIHRAJWm5SB1tVXwYSD0YGR0oXD0FEQV5BYAwJT1ARHkRiWwpCVF8QVxRiPh92RHsRAlRGHxQuIUEfRwdQRUNZEFQQXBYDBVABFh1AU1oRWREUTEQIFiE2QR9HAEFFVFYXWF0IFgsUFkUWHUBZRjtFABVBFFdVDgEREV9HCRMdGglQSjlXXlgMU1dFC19bFxVfRAREHhYOCw1aEQpLbkFRABMIRAABDlsUSQ==
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Sony 2
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Sony
 http://fonte.iptvmaishd.com:25461/live/5799/5799/141962.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Sony HD
@@ -298,13 +340,22 @@ http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/52.ts
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Space HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/64.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Space HD 2
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Space HD
 http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/64
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Studio Universal
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141769.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Studio Universal HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/98.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", SYFY HD
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Syfy
+http://185.180.223.200:25461/live/5799/5799/141766.ts?token=HkdRUEJQRgsQUFBUU1MHDQNWBFMCUgBUDV4BDQACU1JVVAkFAl1UBgtEGBNFFkRRUA9vXAAVX1cBVwUCVUhBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwFVU1sCV10VE0FRABMIRAUCAlQUGBMHSEEBRQsHWTlWURUNAFZHX1dEXVRIE10Ia1VTD1daVUAKF1UVSURcFUIWWUYwWgkTWBEXGDdYXhBRWEQDFmdtTXMVKEMBBxVLEnkmRk8RBwxNQ1BMARMIRA0HAUAaFlINRVsQRRxED0RwZkFIQVYdEVxfQlELXxBcFkVFQBoWWBFvRwFEERRQB19REUZZEVVHFRNcWRxuUQlaX1MBQl1eDEMXXhVURBlEX1sNDRdcFzpJWFUaXhMDVQcIFB8=
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Syfy
+http://fonte.iptvmaishd.com:25461/live/5799/5799/141766.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Syfy HD
 http://msdo.iptvsystem.cloud:80/live/E0P2u5yN0/HoAMr2Keb/122.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Telecine Action
@@ -328,7 +379,7 @@ http://psrv.io:80/live/CaS01XxWvu4/6879304603/18541.ts
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", TLC
 http://185.180.223.200:25461/live/5799/5799/141742.ts?token=HkdRUEJQRgsQUgEBB1EEAQAEVQFTAwQHVwADUlsGVgEEUwgGCFxUAAdEGBNFFkRRUA9vXAAVX1cBVwUAUUhBRhYAS25YXEYLEFcFCA5XDxYdQERcCVJHXARTBwJTUVYAUVIVE0FRABMIRAAAAloUGBMHSEEBRQsHWTlWURUNAFZHX1dEXVRIE10Ia1VTD1daVUAKF1UVSURcFUIWWUYwWgkTWBEXGDdYXhBRWEQDFmdtTXMVKEMBBxVLEnkmRk8RBwxNQ1BMARMIRAUJAVYUGBMBX0AKQxcfF1wQdjFGTxEAHU1UX0sNXlxEDhNCERQYEwtDahZSFhJHA1NZBhZBCUdVGx0TVQVJbQVbX1gHVUBYDV5GRg1HVxdKEFkMCgpHChdmQVhcRgsQXwUIAkBL
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", TLC 2
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", TLC
 http://fonte.iptvmaishd.com:25461/live/5799/5799/141742.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", TNT HD
@@ -346,7 +397,7 @@ http://psrv.io:80/live/CaS01XxWvu4/6879304603/18520.ts
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Warner Channel
 http://psrv.io:80/live/CaS01XxWvu4/6879304603/18513.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Warner Channel 2
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", Warner Channel
 http://server.globalhd.ml:8080/igor/NKZWvvshPg/1200
 
 #################################################################
