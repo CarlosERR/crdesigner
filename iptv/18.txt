@@ -1,0 +1,320 @@
+#########################################################
+######################## Adultos ########################
+#########################################################
+ 
+#EXTINF:-1 tvg-logo="" group-title="Adultos", +18
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Ask TV
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Brasileirinhas
+rtmp://81.89.48.215:1935/xyz666wkz/ playpath=xy6_360p swfUrl=http://ero-tv.org/uppod/uppod_u.swf pageUrl=http://ero-tv.org/brasileirinhas_tv_online/
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", But Go!
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Candy TV
+http://media.platinumstream.ru/candy/tracks-v2a1/index-1486694848-now.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", CCTV Hot - Chinese
+http://219.146.248.44/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?type=web.cloudplay
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Erotic 7 SD
+http://load.kudaplay.tv/aovivo/SD_EROTIC_7/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Fundorado TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Hot 
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/218.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Live Ting TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Miami TV 01
+http://23.111.128.190/miamitv/smil:miamitvmexico/playlist.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Miami TV 02
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w1922323004_b742000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Miami TV 03
+http://usaserver.miamitvchannel.com:1935/miamitv/smil:miamitv/playlist.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Miami TV 04
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Passie XXX TV
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Penthouse HD
+http://load.kudaplay.tv/aovivo/HD_PENTHOUSE/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Playboy TV SD
+http://load.kudaplay.tv/aovivo/SD_PLAYBOY/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Playboy TV HD
+http://load.kudaplay.tv/aovivo/HD_PLAYBOY/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Private HD
+http://load.kudaplay.tv/aovivo/HD_PRIVATE/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Redlight HD  
+rtmp://5.196.189.39/live/ playpath=c_916 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/redlight_online/
+ 
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sakura Porn TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sextreme
+http://load.kudaplay.tv/aovivo/SD_SEXTREME/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sexzone
+http://main.aovivohdtv.com:8000/live/aovivohdtv/jGtQzhQ6TV/223.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sexy Hot SD
+http://load.kudaplay.tv/aovivo/SD_SEXYHOT/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sexy Hot HD
+http://load.kudaplay.tv/aovivo/HD_SEXHOT/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Sexy Sat TV
+http://publish.thewebstream.co:1935/leved/studio66tv_channel41/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Venus SD
+http://load.kudaplay.tv/aovivo/SD_VENUS/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="Adultos", Venus HD
+http://load.kudaplay.tv/aovivo/HD_VENUS/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+###########################################################################
+######################## A Casa das Brasileirinhas ########################
+###########################################################################
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 1 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4470.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 1 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4471.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 1 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4472.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 1 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4473.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 2 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4474.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 2 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4475.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 2 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4476.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 2 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4477.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 2 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4478.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 3 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4479.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 3 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4480.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 3 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4481.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 3 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4482.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 4 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4483.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 4 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4484.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 4 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4485.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 4 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4486.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 5 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4487.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 5 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4488.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 5 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4489.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 5 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4490.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 5 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4491.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 6 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4492.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 6 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4493.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 6 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4494.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 6 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4495.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 7 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4496.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 7 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4497.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 7 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4498.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 7 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4499.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 8 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4500.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 8 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4501.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 8 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4502.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 8 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4503.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 8 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4504.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 9 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4505.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 9 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4506.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 9 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4507.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 9 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4508.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 10
+http://load.kudaplay.tv/vod/filme/4509.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 11 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4510.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 11 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4511.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 11 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4512.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 11 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4513.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 12 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4514.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 12 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4515.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 12 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4516.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 12 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4517.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 12 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4518.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 13 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4519.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 13 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4520.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 13 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4521.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 13 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4522.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 14 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4523.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 14 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4524.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 14 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4525.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 14 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4526.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 15 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4527.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 15 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4528.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 15 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4529.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 15 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4530.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 16 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4531.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 16 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4532.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 16 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4533.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 16 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4534.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 16 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4535.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 17 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4536.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 17 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4537.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 17 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4538.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 17 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4539.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 18 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4540.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 18 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4541.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 18 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4542.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 18 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4543.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 18 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4544.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 19 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4545.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 19 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4546.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 19 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4547.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 19 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4548.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 20 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4549.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 20 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4550.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 20 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4551.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 20 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4552.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 21 (Cena 1)
+http://load.kudaplay.tv/vod/filme/4553.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 21 (Cena 2)
+http://load.kudaplay.tv/vod/filme/4554.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 21 (Cena 3)
+http://load.kudaplay.tv/vod/filme/4555.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 21 (Cena 4)
+http://load.kudaplay.tv/vod/filme/4556.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 21 (Cena 5)
+http://load.kudaplay.tv/vod/filme/4557.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 22 (Cena 1)
+http://load.kudaplay.tv/vod/filme/6245.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 22 (Cena 2)
+http://load.kudaplay.tv/vod/filme/6246.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 22 (Cena 3)
+http://load.kudaplay.tv/vod/filme/6247.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 22 (Cena 4)
+http://load.kudaplay.tv/vod/filme/6248.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 23 (Cena 1)
+http://load.kudaplay.tv/vod/filme/6337.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 23 (Cena 2)
+http://load.kudaplay.tv/vod/filme/6338.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 23 (Cena 3)
+http://load.kudaplay.tv/vod/filme/6339.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 23 (Cena 4)
+http://load.kudaplay.tv/vod/filme/6340.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 23 (Cena 5)
+http://load.kudaplay.tv/vod/filme/6341.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 24 (Cena 1)
+http://load.kudaplay.tv/vod/filme/8982.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 24 (Cena 2)
+http://load.kudaplay.tv/vod/filme/8983.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 24 (Cena 3)
+http://load.kudaplay.tv/vod/filme/8984.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
+#EXTINF:-1 tvg-logo="" group-title="A Casa das Brasileirinhas", A Casa Das Brasileirinhas: Vol. 24 (Cena 4)
+http://load.kudaplay.tv/vod/filme/8985.mp4/video.m3u8?token=aa1110333fb306b1fe3a5371b07dcfb3
